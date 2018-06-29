@@ -1,1 +1,4 @@
-The Rover is an obstacle avoidance robot. It just runs full steam ahead until it detects an obstacle in its path at which point it turns and then continues to move forward. The Rover is built on a Raspberry Pi 2 running Microsoft Windows IoT Core. A full description of the project along with a parts list and assembly instructions can be found at http://www.hackster.io/peejster/rover
+WaggieBot 2.0 is a project I'm working on with my daughter to help foster her interest in robotics. It is derived from the following project: http://www.hackster.io/peejster/rover
+This original was built with a Raspberry Pi 2 , running an older version of Universal Windows on Windows 10 IOT. My iteration is running on a Raspberry Pi 3B with Universal Windows 6.1.5
+
+In its current state, WaggieBot is an obstacle avoidance robot. Constantly moving until it detects an object in its path. Future iterations will incorporate a remote control app and integration with the Azure Bot Framework.
