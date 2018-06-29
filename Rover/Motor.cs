@@ -1,6 +1,6 @@
 ﻿using Windows.Devices.Gpio;
 
-namespace Rover
+namespace WaggieBot
 {
     public class Motor
     {

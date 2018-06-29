@@ -7,8 +7,8 @@
     <ProjectGuid>{4B1F5822-0DFD-47F3-AB58-F201C4155E28}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Rover</RootNamespace>
-    <AssemblyName>Rover</AssemblyName>
+    <RootNamespace>WaggieBot</RootNamespace>
+    <AssemblyName>WaggieBot</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion>10.0.10240.0</TargetPlatformVersion>

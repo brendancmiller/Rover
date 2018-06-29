@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Rover
+namespace WaggieBot
 {
     public class TwoMotorsDriver
     {

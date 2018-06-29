@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rover", "Rover\Rover.csproj", "{4B1F5822-0DFD-47F3-AB58-F201C4155E28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaggieBot", "Rover\WaggieBot.csproj", "{4B1F5822-0DFD-47F3-AB58-F201C4155E28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +36,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44DDD071-DC41-4D26-ADFE-6062FE28BE7E}
 	EndGlobalSection
 EndGlobal

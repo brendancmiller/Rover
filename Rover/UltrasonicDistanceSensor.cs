@@ -3,7 +3,7 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 using Windows.Devices.Gpio;
 
-namespace Rover
+namespace WaggieBot
 {
     public class UltrasonicDistanceSensor
     {
